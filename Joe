@@ -13,7 +13,8 @@ img {display: block;margin-left:auto;margin-right:auto;}
 <a href="http://www.cookinggames.com/kebab.html">dunder</a>
 <a href="https://www.youtube.com/watch?v=YPQEzMZlRYs">turkistan</a>
 </div> 
-<img src="https://www.gamereactor.se/media/forum/se/16015324_62.jpg" alt="kebab">
+<img src="https://www.gamereactor.se/media/forum/se/16015324_62.jpg" alt="kebab"
+" alt="Image" height="500" width="765.25">
 <h2 style="text-align:center">#### är fin och snäll för hon har ätit mycket kebab</h2> 
 <div style="style="background-color:rgb(37, 193, 245)> 
 </div> 
